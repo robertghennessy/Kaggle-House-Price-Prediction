@@ -20,7 +20,7 @@ Lessons learned:
 * Optuna lead to the largest improvement of the score (improved by ~18%).
 * Removing outliers lead to second largest improvement of the score (improved by ~6%).
 * Imputing, creating new feautres and removing unimportant did not have a significant impact on the score.  
-<br>
+
 Potential next steps:
 * Create a better way to impute the lot frontage and other numerical columns
 * Create new features. For example, the area of the backyard (area lot - area of house).
